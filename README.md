@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,14,20&height=200&section=header&text=Trezdin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mechanical+Engineering+Student+%40+UW+Tacoma&descAlignY=60" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=Learning+in+public+📖;Building+projects+🔨;Debugging+my+future+🐛;Building things on the internet" alt="Progress Typing"/>
 </div>
 
 ## ⌨️ About Me
@@ -43,20 +42,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Unspeakablevet&theme=algolia&hide_border=true" width="55%"/>
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Unspeakablevet&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Unspeakablevet">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unspeakablevet&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
 </p>
 
 ## 🔨 Projects
