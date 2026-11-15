@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,14,20&height=200&section=header&text=Trezdin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS+Student+%40+YOUR_UNIVERSITY&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,14,20&height=200&section=header&text=Trezdin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mechanical+Engineering+Student+%40+UW+Tacoma&descAlignY=60" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=Learning+in+public+📖;Building+projects+🔨;Debugging+my+future+🐛;Building things on the internet" alt="Progress Typing"/>
 </div>
 
@@ -21,22 +21,22 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=YOUR_TOPICS&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=arduino,css,html,java,md,matlab,py&perline=8"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=YOUR_TOOLS&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,opencv&perline=8"/>
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Unspeakablevet&show_icons=true&theme=algolia&hide_border=true" height="155"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Unspeakablevet&layout=compact&theme=algolia&hide_border=true" height="155"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Unspeakablevet&show_icons=true&theme=algolia&hide_border=true" height="155"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Unspeakablevet&layout=compact&theme=algolia&hide_border=true" height="155"/>
 </p>
 
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Unspeakablevet&layout=donut&theme=algolia&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Unspeakablevet&layout=donut&theme=algolia&hide_border=true"/>
 </p>
 
 ## 🔥 Streak
@@ -48,7 +48,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unspeakablevet&theme=algolia&no-frame=true&row=2&column=4"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=Unspeakablevet&theme=algolia&no-frame=true&row=2&column=4"/>
 </p>
 
 ## 📈 Activity Graph
@@ -62,7 +62,6 @@
 ## 🔨 Projects
 
 - **[Unspeakablevet](https://github.com/Unspeakablevet/Unspeakablevet)** — My profile repo
-- **[YOUR_PROJECT_2](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,14,20&height=100&section=footer" width="100%"/>
