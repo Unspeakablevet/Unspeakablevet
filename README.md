@@ -29,12 +29,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Unspeakablevet&show_icons=true&theme=algolia&hide_border=true" height="155"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Unspeakablevet&layout=compact&theme=algolia&hide_border=true" height="155"/>
-</p>
-
-## 💡 Top Languages
-
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Unspeakablevet&layout=donut&theme=algolia&hide_border=true"/>
 </p>
 
